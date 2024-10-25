@@ -64,6 +64,7 @@ namespace mml {
 
     //% blockId=mmlPlayer_track
     //% block="instrument $instrument track $mml"
+    //% instrument.fieldEditor=imagedropdown
     export function track(instrument: MMLInstrument, mml: string) {
         return new MMLTrack(mml, instrument);
     }
