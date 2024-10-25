@@ -19,5 +19,6 @@
         "target": "1.12.56",
         "pxt": "8.5.67"
     },
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "version": "0.0.1"
 }
